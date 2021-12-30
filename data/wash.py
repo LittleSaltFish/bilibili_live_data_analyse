@@ -37,79 +37,55 @@ def flat2title(flat):
         ret+=","
     return ret
 
-typedict={} # 存放所有的通知类型
+def WashLine(line):
+    # 清洗数据以满足格式要求
+    tmp = line.replace("\"", " ")
+    tmp = tmp.replace("'", "\"")
+    tmp = tmp.replace("\\x", "\\\\x")
+    tmp = tmp.replace("False", "\"False\"")
+    tmp = tmp.replace("True", "\"True\"")
+    tmp = tmp.replace("None", "\"None\"")
+    return tmp
+
+
+DataDict={} # 存放所有的通知，格式为 标题行：[内容行1,内容行2,...,内容行n]
+
 with open("./data/rawoutput.json", "r", encoding="utf-8") as f:
     lines = f.readlines()
     for line in lines:
-        # if ": b'" in line:
-        #     continue
-        tmp = line.replace("\"", " ")
-        tmp = tmp.replace("'", "\"")
-        tmp = tmp.replace("\\x", "\\\\x")
-        tmp = tmp.replace("False", "\"False\"")
-        tmp = tmp.replace("True", "\"True\"")
-        tmp = tmp.replace("None", "\"None\"")
+        tmp=WashLine(line)
+        # 初步清洗以满足json格式需要
 
         try:
             js = json.loads(tmp)
-            message=js["msg_type"]
+            data=extract("",js)
+            KeyLine=flat2title(data)
+            ValueLine=flat2row(data)
 
-            if message == "other":
-                if js["content"]["cmd"] not in typedict.keys():
-                    typedict[js["content"]["cmd"]]=[]
-                    typedict[js["content"]["cmd"]].append(js)
-                else:
-                    typedict[js["content"]["cmd"]].append(js)                    
-
-            elif message not in typedict.keys():
-                typedict[message]=[]
-                typedict[message].append(js)
-                # 若不存在该类型，初始化并插入
+            if str(KeyLine) not in DataDict.keys():
+                DataDict[str(KeyLine)]=[]
+                DataDict[str(KeyLine)].append(ValueLine)
             else:
-                typedict[message].append(js)
-                # 若存在，直接插入
-            
+                DataDict[str(KeyLine)].append(ValueLine)
+
             # js = json.dumps(js, indent=4, separators=(',', ':'))
+            # print(KeyLine)
+            # print(ValueLine)
             # 调试用，格式化输出js
 
         except Exception as e:
-            # 保存错误输出
+            # 保存错误输出，观察清洗效果，以便调整清洗策略
             with open("./data/FailureData.txt","a+" ,encoding="utf-8")as f:
                 f.write(f"{e}\n")
                 f.write(f"{line}\n")
                 f.write("=============\n")
             pass
 
-for key,value in typedict.items():
-    print(key)
-    with open(f"./data/{key}.csv","a+",encoding="utf-8") as f:
-
-        # 拿第0行出来把标题写进文件
-        ExampleLine=value[0]
+i=0
+for key,value in DataDict.items():
+    with open(f"./data/type{i}.csv","a+",encoding="utf-8") as f:
         
-        # if ExampleLine["msg_type"]!="danmaku" or ExampleLine["msg_type"]!="broadcast":
-        #     # 对于非弹幕信息，只保留通知内容就行
-        #     ExampleLine=ExampleLine["content"]
-        # else:
-        #     # 对于弹幕信息，只去除msg_type
-        #     ExampleLine.pop("msg_type")
-        # # 可以去掉_msg_type，否则标题太长
-
-        FlatKey=extract("",ExampleLine)
-        KeyLine=flat2title(FlatKey)
-        f.write(f"{KeyLine}\n")
-
-        # 用其他普通行提取数据
-        for RawLine in value:
-
-            # if RawLine["msg_type"]!="danmaku" or RawLine["msg_type"]!="broadcast":
-            #     # 对于非弹幕信息，只保留通知内容就行
-            #     RawLine=RawLine["content"]
-            # else:
-            #     # 对于弹幕信息，只去除msg_type
-            #     RawLine.pop("msg_type")
-            # # 相应去掉_msg_type的数据
-
-            FlatValue=extract("",RawLine)
-            DataLine=flat2row(FlatValue)
-            f.write(f"{DataLine}\n")
+        f.write(f"{key}\n")
+        for ValueLine in value:
+            f.write(f"{ValueLine}\n")
+    i+=1

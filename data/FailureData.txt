@@ -3210,3 +3210,11 @@ Expecting value: line 1 column 25 (char 24)
 {'name': '', 'content': b'\x00\x02\xae\x19', 'msg_type': 'other'}
 
 =============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'{"code":0}', 'msg_type': 'other'}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\xd1F ', 'msg_type': 'other'}
+
+=============
