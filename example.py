@@ -15,8 +15,9 @@ async def printer(q,link):
         m["DeltaTime"]=round(Now-StartTime,2)
 
         RoomId=link.split("/")[-1]
-        with open(f"./{RoomId}.json","a+",encoding="utf-8") as f:
+        with open(f"./data/Rooms/{RoomId}.json","a+",encoding="utf-8") as f:
             data=m
+            # TODO：将byte型数据转化为可以json.dump的格式
             # data=json.dumps(m)
             f.write(str(data)+"\n")
         print(data)

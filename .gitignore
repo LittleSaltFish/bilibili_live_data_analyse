@@ -1,3 +1,4 @@
 /.history/*
-/data/*.json
-/data/*.csv
+/data/Rooms/*.json
+# /data/*.csv
+*.zip

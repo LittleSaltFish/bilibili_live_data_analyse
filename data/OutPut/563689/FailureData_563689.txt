@@ -1,0 +1,2472 @@
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'{"code":0}', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:34:43', 'DeltaTime': 0.25}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:35:03', 'DeltaTime': 20.22}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:35:23', 'DeltaTime': 40.22}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:35:43', 'DeltaTime': 60.22}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:36:03', 'DeltaTime': 80.22}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:36:23', 'DeltaTime': 100.23}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:36:43', 'DeltaTime': 120.23}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:37:03', 'DeltaTime': 140.23}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:37:23', 'DeltaTime': 160.23}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:37:43', 'DeltaTime': 180.23}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:38:03', 'DeltaTime': 200.23}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:38:23', 'DeltaTime': 220.24}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:38:43', 'DeltaTime': 240.24}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:39:03', 'DeltaTime': 260.24}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:39:23', 'DeltaTime': 280.24}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:39:43', 'DeltaTime': 300.24}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:40:03', 'DeltaTime': 320.25}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:40:23', 'DeltaTime': 340.25}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:40:43', 'DeltaTime': 360.25}
+
+=============
+Expecting ',' delimiter: line 1 column 651 (char 650)
+{'msg_type': 'other', 'content': {'cmd': 'INTERACT_WORD', 'data': {'contribution': {'grade': 0}, 'dmscore': 12, 'fans_medal': {'anchor_roomid': 47867, 'guard_level': 0, 'icon_id': 0, 'is_lighted': 1, 'medal_color': 12478086, 'medal_color_border': 12478086, 'medal_color_end': 12478086, 'medal_color_start': 12478086, 'medal_level': 14, 'medal_name': 'C酱', 'score': 48996, 'special': '', 'target_id': 67141}, 'identities': [3, 1], 'is_spread': 0, 'msg_type': 1, 'roomid': 563689, 'score': 1640923442436, 'spread_desc': '', 'spread_info': '', 'tail_icon': 0, 'timestamp': 1640864446, 'trigger_time': 1640864445327699200, 'uid': 11378104, 'uname': '剑摆摆Truemean', 'uname_color': ''}}, 'Date': '2021.12.30', 'ExactTime': '19:40:48', 'DeltaTime': 365.68}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:41:03', 'DeltaTime': 380.25}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:41:23', 'DeltaTime': 400.26}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:41:43', 'DeltaTime': 420.26}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:42:03', 'DeltaTime': 440.26}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:42:23', 'DeltaTime': 460.27}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:42:43', 'DeltaTime': 480.27}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:43:03', 'DeltaTime': 500.27}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:43:23', 'DeltaTime': 520.27}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:43:43', 'DeltaTime': 540.28}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:44:03', 'DeltaTime': 560.28}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:44:23', 'DeltaTime': 580.28}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:44:43', 'DeltaTime': 600.29}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:45:03', 'DeltaTime': 620.29}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:45:23', 'DeltaTime': 640.3}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:45:43', 'DeltaTime': 660.3}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:46:03', 'DeltaTime': 680.3}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:46:23', 'DeltaTime': 700.31}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:46:43', 'DeltaTime': 720.31}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:47:03', 'DeltaTime': 740.32}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:47:23', 'DeltaTime': 760.32}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:47:43', 'DeltaTime': 780.32}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:48:03', 'DeltaTime': 800.32}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:48:23', 'DeltaTime': 820.33}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:48:43', 'DeltaTime': 840.33}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:49:03', 'DeltaTime': 860.33}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:49:23', 'DeltaTime': 880.36}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:49:43', 'DeltaTime': 900.34}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:50:03', 'DeltaTime': 920.34}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:50:23', 'DeltaTime': 940.34}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:50:43', 'DeltaTime': 960.35}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:51:03', 'DeltaTime': 980.35}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:51:23', 'DeltaTime': 1000.35}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:51:43', 'DeltaTime': 1020.36}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:52:03', 'DeltaTime': 1040.36}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:52:23', 'DeltaTime': 1060.36}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:52:43', 'DeltaTime': 1080.37}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:53:03', 'DeltaTime': 1100.37}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:53:23', 'DeltaTime': 1120.38}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:53:43', 'DeltaTime': 1140.38}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:54:03', 'DeltaTime': 1160.38}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:54:23', 'DeltaTime': 1180.38}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:54:43', 'DeltaTime': 1200.39}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:55:03', 'DeltaTime': 1220.39}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:55:23', 'DeltaTime': 1240.4}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:55:43', 'DeltaTime': 1260.4}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:56:03', 'DeltaTime': 1280.4}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:56:23', 'DeltaTime': 1300.41}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:56:43', 'DeltaTime': 1320.42}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:57:03', 'DeltaTime': 1340.42}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:57:23', 'DeltaTime': 1360.43}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:57:43', 'DeltaTime': 1380.43}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:58:03', 'DeltaTime': 1400.44}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:58:23', 'DeltaTime': 1420.44}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:58:43', 'DeltaTime': 1440.45}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:59:03', 'DeltaTime': 1460.45}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:59:23', 'DeltaTime': 1480.45}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '19:59:43', 'DeltaTime': 1500.46}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:00:03', 'DeltaTime': 1520.46}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:00:23', 'DeltaTime': 1540.46}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:00:43', 'DeltaTime': 1560.47}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:01:03', 'DeltaTime': 1580.47}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:01:23', 'DeltaTime': 1600.47}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:01:43', 'DeltaTime': 1620.48}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:02:03', 'DeltaTime': 1640.48}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:02:23', 'DeltaTime': 1660.48}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:02:43', 'DeltaTime': 1680.49}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:03:03', 'DeltaTime': 1700.49}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:03:23', 'DeltaTime': 1720.51}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:03:43', 'DeltaTime': 1740.51}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:04:03', 'DeltaTime': 1760.51}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:04:23', 'DeltaTime': 1780.52}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:04:43', 'DeltaTime': 1800.52}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:05:03', 'DeltaTime': 1820.52}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:05:23', 'DeltaTime': 1840.52}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:05:43', 'DeltaTime': 1860.52}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:06:03', 'DeltaTime': 1880.53}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:06:23', 'DeltaTime': 1900.53}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:06:43', 'DeltaTime': 1920.54}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:07:03', 'DeltaTime': 1940.54}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:07:23', 'DeltaTime': 1960.54}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:07:43', 'DeltaTime': 1980.54}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:08:03', 'DeltaTime': 2000.55}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:08:23', 'DeltaTime': 2020.55}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:08:43', 'DeltaTime': 2040.55}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:09:03', 'DeltaTime': 2060.55}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:09:23', 'DeltaTime': 2080.56}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:09:43', 'DeltaTime': 2100.56}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:10:03', 'DeltaTime': 2120.57}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:10:23', 'DeltaTime': 2140.57}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:10:43', 'DeltaTime': 2160.57}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:11:03', 'DeltaTime': 2180.58}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:11:23', 'DeltaTime': 2200.58}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:11:43', 'DeltaTime': 2220.59}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:12:03', 'DeltaTime': 2240.59}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:12:23', 'DeltaTime': 2260.6}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:12:43', 'DeltaTime': 2280.6}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:13:03', 'DeltaTime': 2300.6}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:13:23', 'DeltaTime': 2320.61}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:13:43', 'DeltaTime': 2340.61}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:14:03', 'DeltaTime': 2360.61}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:14:23', 'DeltaTime': 2380.62}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:14:43', 'DeltaTime': 2400.62}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:15:03', 'DeltaTime': 2420.62}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:15:23', 'DeltaTime': 2440.63}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:15:43', 'DeltaTime': 2460.63}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:16:03', 'DeltaTime': 2480.63}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:16:23', 'DeltaTime': 2500.64}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:16:43', 'DeltaTime': 2520.65}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:17:03', 'DeltaTime': 2540.65}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:17:23', 'DeltaTime': 2560.65}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:17:43', 'DeltaTime': 2580.66}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:18:03', 'DeltaTime': 2600.66}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:18:23', 'DeltaTime': 2620.68}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:18:43', 'DeltaTime': 2640.68}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:19:03', 'DeltaTime': 2660.68}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:19:23', 'DeltaTime': 2680.69}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:19:43', 'DeltaTime': 2700.7}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:20:03', 'DeltaTime': 2720.71}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:20:23', 'DeltaTime': 2740.71}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:20:43', 'DeltaTime': 2760.71}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:21:03', 'DeltaTime': 2780.72}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:21:23', 'DeltaTime': 2800.72}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:21:43', 'DeltaTime': 2820.72}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:22:03', 'DeltaTime': 2840.73}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:22:23', 'DeltaTime': 2860.75}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:22:43', 'DeltaTime': 2880.75}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:23:03', 'DeltaTime': 2900.75}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:23:23', 'DeltaTime': 2920.75}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:23:43', 'DeltaTime': 2940.75}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:24:03', 'DeltaTime': 2960.76}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:24:23', 'DeltaTime': 2980.76}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:24:43', 'DeltaTime': 3000.76}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:25:03', 'DeltaTime': 3020.76}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:25:23', 'DeltaTime': 3040.77}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:25:43', 'DeltaTime': 3060.77}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:26:03', 'DeltaTime': 3080.77}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:26:23', 'DeltaTime': 3100.78}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:26:43', 'DeltaTime': 3120.78}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:27:03', 'DeltaTime': 3140.79}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:27:23', 'DeltaTime': 3160.79}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:27:43', 'DeltaTime': 3180.79}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:28:03', 'DeltaTime': 3200.79}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:28:23', 'DeltaTime': 3220.8}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:28:43', 'DeltaTime': 3240.8}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:29:03', 'DeltaTime': 3260.81}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:29:23', 'DeltaTime': 3280.81}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:29:43', 'DeltaTime': 3300.81}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:30:03', 'DeltaTime': 3320.81}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:30:23', 'DeltaTime': 3340.82}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:30:43', 'DeltaTime': 3360.82}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:31:03', 'DeltaTime': 3380.82}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:31:23', 'DeltaTime': 3400.83}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:31:43', 'DeltaTime': 3420.83}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:32:03', 'DeltaTime': 3440.84}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:32:23', 'DeltaTime': 3460.84}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:32:43', 'DeltaTime': 3480.84}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:33:03', 'DeltaTime': 3500.84}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:33:23', 'DeltaTime': 3520.85}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:33:43', 'DeltaTime': 3540.86}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:34:03', 'DeltaTime': 3560.86}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:34:23', 'DeltaTime': 3580.86}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:34:43', 'DeltaTime': 3600.86}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:35:03', 'DeltaTime': 3620.86}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:35:23', 'DeltaTime': 3640.86}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:35:43', 'DeltaTime': 3660.87}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:36:03', 'DeltaTime': 3680.87}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:36:23', 'DeltaTime': 3700.88}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:36:43', 'DeltaTime': 3720.88}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:37:03', 'DeltaTime': 3740.88}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:37:23', 'DeltaTime': 3760.9}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:37:43', 'DeltaTime': 3780.9}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:38:03', 'DeltaTime': 3800.9}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:38:23', 'DeltaTime': 3820.92}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:38:43', 'DeltaTime': 3840.93}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:39:03', 'DeltaTime': 3860.93}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:39:23', 'DeltaTime': 3880.94}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:39:43', 'DeltaTime': 3900.94}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:40:03', 'DeltaTime': 3920.94}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:40:23', 'DeltaTime': 3940.94}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:40:43', 'DeltaTime': 3960.94}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:41:03', 'DeltaTime': 3980.95}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:41:23', 'DeltaTime': 4000.96}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:41:43', 'DeltaTime': 4020.97}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:42:03', 'DeltaTime': 4040.97}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:42:23', 'DeltaTime': 4060.97}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:42:43', 'DeltaTime': 4080.97}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:43:03', 'DeltaTime': 4100.98}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:43:23', 'DeltaTime': 4120.98}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:43:43', 'DeltaTime': 4140.99}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:44:03', 'DeltaTime': 4160.99}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:44:23', 'DeltaTime': 4181.01}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:44:43', 'DeltaTime': 4201.01}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:45:03', 'DeltaTime': 4221.01}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:45:23', 'DeltaTime': 4241.03}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:45:43', 'DeltaTime': 4261.04}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:46:03', 'DeltaTime': 4281.04}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:46:23', 'DeltaTime': 4301.05}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:46:43', 'DeltaTime': 4321.05}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:47:03', 'DeltaTime': 4341.06}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:47:23', 'DeltaTime': 4361.07}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:47:43', 'DeltaTime': 4381.07}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:48:03', 'DeltaTime': 4401.07}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:48:23', 'DeltaTime': 4421.07}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:48:43', 'DeltaTime': 4441.08}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:49:03', 'DeltaTime': 4461.08}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:49:23', 'DeltaTime': 4481.08}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:49:43', 'DeltaTime': 4501.09}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:50:03', 'DeltaTime': 4521.09}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:50:23', 'DeltaTime': 4541.09}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:50:43', 'DeltaTime': 4561.09}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:51:03', 'DeltaTime': 4581.1}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:51:23', 'DeltaTime': 4601.1}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:51:43', 'DeltaTime': 4621.11}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:52:03', 'DeltaTime': 4641.11}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:52:23', 'DeltaTime': 4661.11}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:52:43', 'DeltaTime': 4681.12}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:53:03', 'DeltaTime': 4701.12}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:53:23', 'DeltaTime': 4721.13}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:53:43', 'DeltaTime': 4741.13}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:54:03', 'DeltaTime': 4761.13}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:54:23', 'DeltaTime': 4781.14}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:54:43', 'DeltaTime': 4801.14}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:55:03', 'DeltaTime': 4821.14}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:55:23', 'DeltaTime': 4841.15}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:55:43', 'DeltaTime': 4861.15}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:56:03', 'DeltaTime': 4881.15}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:56:23', 'DeltaTime': 4901.17}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:56:43', 'DeltaTime': 4921.17}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:57:03', 'DeltaTime': 4941.18}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:57:24', 'DeltaTime': 4961.2}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:57:43', 'DeltaTime': 4981.18}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:58:03', 'DeltaTime': 5001.18}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:58:23', 'DeltaTime': 5021.19}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:58:43', 'DeltaTime': 5041.19}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:59:03', 'DeltaTime': 5061.19}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:59:23', 'DeltaTime': 5081.2}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '20:59:44', 'DeltaTime': 5101.2}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:00:04', 'DeltaTime': 5121.2}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:00:24', 'DeltaTime': 5141.21}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:00:44', 'DeltaTime': 5161.22}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:01:04', 'DeltaTime': 5181.22}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:01:24', 'DeltaTime': 5201.22}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:01:44', 'DeltaTime': 5221.23}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:02:04', 'DeltaTime': 5241.23}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:02:24', 'DeltaTime': 5261.23}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:02:44', 'DeltaTime': 5281.23}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:03:04', 'DeltaTime': 5301.24}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:03:24', 'DeltaTime': 5321.25}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:03:44', 'DeltaTime': 5341.25}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:04:04', 'DeltaTime': 5361.25}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:04:24', 'DeltaTime': 5381.26}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:04:44', 'DeltaTime': 5401.26}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:05:04', 'DeltaTime': 5421.26}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:05:24', 'DeltaTime': 5441.28}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:05:44', 'DeltaTime': 5461.32}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:06:04', 'DeltaTime': 5481.29}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:06:24', 'DeltaTime': 5501.3}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:06:44', 'DeltaTime': 5521.3}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:07:04', 'DeltaTime': 5541.31}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:07:24', 'DeltaTime': 5561.31}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:07:44', 'DeltaTime': 5581.32}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:08:04', 'DeltaTime': 5601.32}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:08:24', 'DeltaTime': 5621.33}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:08:44', 'DeltaTime': 5641.33}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:09:04', 'DeltaTime': 5661.33}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:09:24', 'DeltaTime': 5681.35}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:09:44', 'DeltaTime': 5701.34}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:10:04', 'DeltaTime': 5721.35}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:10:24', 'DeltaTime': 5741.36}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:10:44', 'DeltaTime': 5761.39}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:11:04', 'DeltaTime': 5781.37}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:11:24', 'DeltaTime': 5801.38}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:11:44', 'DeltaTime': 5821.41}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:12:04', 'DeltaTime': 5841.4}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:12:24', 'DeltaTime': 5861.4}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:12:44', 'DeltaTime': 5881.42}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:13:04', 'DeltaTime': 5901.42}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:13:24', 'DeltaTime': 5921.42}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:13:44', 'DeltaTime': 5941.43}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:14:04', 'DeltaTime': 5961.43}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:14:24', 'DeltaTime': 5981.45}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:14:44', 'DeltaTime': 6001.48}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:15:04', 'DeltaTime': 6021.48}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:15:24', 'DeltaTime': 6041.49}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:15:44', 'DeltaTime': 6061.5}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:16:04', 'DeltaTime': 6081.5}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:16:24', 'DeltaTime': 6101.51}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:16:44', 'DeltaTime': 6121.52}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:17:04', 'DeltaTime': 6141.52}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:17:24', 'DeltaTime': 6161.53}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:17:44', 'DeltaTime': 6181.54}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:18:04', 'DeltaTime': 6201.54}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:18:24', 'DeltaTime': 6221.54}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:18:44', 'DeltaTime': 6241.54}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:19:04', 'DeltaTime': 6261.55}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:19:24', 'DeltaTime': 6281.55}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:19:44', 'DeltaTime': 6301.56}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:20:04', 'DeltaTime': 6321.57}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:20:24', 'DeltaTime': 6341.58}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:20:44', 'DeltaTime': 6361.59}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:21:04', 'DeltaTime': 6381.59}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:21:24', 'DeltaTime': 6401.6}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:21:44', 'DeltaTime': 6421.6}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:22:04', 'DeltaTime': 6441.61}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:22:24', 'DeltaTime': 6461.63}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:22:44', 'DeltaTime': 6481.63}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:23:04', 'DeltaTime': 6501.63}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:23:24', 'DeltaTime': 6521.63}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:23:44', 'DeltaTime': 6541.65}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:24:04', 'DeltaTime': 6561.65}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:24:24', 'DeltaTime': 6581.67}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:24:44', 'DeltaTime': 6601.67}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:25:04', 'DeltaTime': 6621.68}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:25:24', 'DeltaTime': 6641.7}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:25:44', 'DeltaTime': 6661.7}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:26:04', 'DeltaTime': 6681.71}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:26:24', 'DeltaTime': 6701.71}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:26:44', 'DeltaTime': 6721.72}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:27:04', 'DeltaTime': 6741.72}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:27:24', 'DeltaTime': 6761.74}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:27:44', 'DeltaTime': 6781.75}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:28:04', 'DeltaTime': 6801.75}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:28:24', 'DeltaTime': 6821.76}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:28:44', 'DeltaTime': 6841.77}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:29:04', 'DeltaTime': 6861.77}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:29:24', 'DeltaTime': 6881.79}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:29:44', 'DeltaTime': 6901.8}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:30:04', 'DeltaTime': 6921.8}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:30:24', 'DeltaTime': 6941.82}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:30:44', 'DeltaTime': 6961.83}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:31:04', 'DeltaTime': 6981.84}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:31:24', 'DeltaTime': 7001.85}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:31:44', 'DeltaTime': 7021.86}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:32:04', 'DeltaTime': 7041.86}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:32:24', 'DeltaTime': 7061.87}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:32:44', 'DeltaTime': 7081.87}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:33:04', 'DeltaTime': 7101.88}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:33:24', 'DeltaTime': 7121.88}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:33:44', 'DeltaTime': 7141.88}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:34:04', 'DeltaTime': 7161.89}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:34:24', 'DeltaTime': 7181.9}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:34:44', 'DeltaTime': 7201.91}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:35:04', 'DeltaTime': 7221.91}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:35:24', 'DeltaTime': 7241.92}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:35:44', 'DeltaTime': 7261.93}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:36:04', 'DeltaTime': 7281.93}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:36:24', 'DeltaTime': 7301.94}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:36:44', 'DeltaTime': 7321.94}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:37:04', 'DeltaTime': 7341.94}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:37:24', 'DeltaTime': 7361.96}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:37:44', 'DeltaTime': 7381.97}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:38:04', 'DeltaTime': 7401.98}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:38:24', 'DeltaTime': 7421.98}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:38:44', 'DeltaTime': 7441.99}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:39:04', 'DeltaTime': 7461.99}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:39:24', 'DeltaTime': 7482.01}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:39:44', 'DeltaTime': 7502.01}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:40:04', 'DeltaTime': 7522.01}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:40:24', 'DeltaTime': 7542.04}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:40:44', 'DeltaTime': 7562.05}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:41:04', 'DeltaTime': 7582.05}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:41:24', 'DeltaTime': 7602.07}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:41:44', 'DeltaTime': 7622.08}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:42:04', 'DeltaTime': 7642.08}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:42:24', 'DeltaTime': 7662.1}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:42:44', 'DeltaTime': 7682.11}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:43:04', 'DeltaTime': 7702.11}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:43:24', 'DeltaTime': 7722.13}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:43:44', 'DeltaTime': 7742.14}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:44:04', 'DeltaTime': 7762.15}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:44:24', 'DeltaTime': 7782.16}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:44:44', 'DeltaTime': 7802.17}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:45:04', 'DeltaTime': 7822.18}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:45:24', 'DeltaTime': 7842.19}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:45:45', 'DeltaTime': 7862.22}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:46:05', 'DeltaTime': 7882.21}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:46:25', 'DeltaTime': 7902.21}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:46:45', 'DeltaTime': 7922.21}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:47:05', 'DeltaTime': 7942.22}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:47:25', 'DeltaTime': 7962.22}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:47:45', 'DeltaTime': 7982.24}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:48:05', 'DeltaTime': 8002.24}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:48:25', 'DeltaTime': 8022.25}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:48:45', 'DeltaTime': 8042.25}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:49:05', 'DeltaTime': 8062.26}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:49:25', 'DeltaTime': 8082.28}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:49:45', 'DeltaTime': 8102.29}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:50:05', 'DeltaTime': 8122.3}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:50:25', 'DeltaTime': 8142.3}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:50:45', 'DeltaTime': 8162.31}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:51:05', 'DeltaTime': 8182.31}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:51:25', 'DeltaTime': 8202.31}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:51:45', 'DeltaTime': 8222.32}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:52:05', 'DeltaTime': 8242.32}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:52:25', 'DeltaTime': 8262.32}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:52:45', 'DeltaTime': 8282.34}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:53:05', 'DeltaTime': 8302.34}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:53:25', 'DeltaTime': 8322.36}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:53:45', 'DeltaTime': 8342.37}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:54:05', 'DeltaTime': 8362.37}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:54:25', 'DeltaTime': 8382.39}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:54:45', 'DeltaTime': 8402.38}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:55:05', 'DeltaTime': 8422.38}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:55:25', 'DeltaTime': 8442.38}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:55:45', 'DeltaTime': 8462.39}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:56:05', 'DeltaTime': 8482.39}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:56:25', 'DeltaTime': 8502.41}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:56:45', 'DeltaTime': 8522.42}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:57:05', 'DeltaTime': 8542.42}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:57:25', 'DeltaTime': 8562.43}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:57:45', 'DeltaTime': 8582.43}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:58:05', 'DeltaTime': 8602.43}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:58:25', 'DeltaTime': 8622.44}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:58:45', 'DeltaTime': 8642.44}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:59:05', 'DeltaTime': 8662.45}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:59:25', 'DeltaTime': 8682.47}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '21:59:45', 'DeltaTime': 8702.47}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:00:05', 'DeltaTime': 8722.47}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:00:25', 'DeltaTime': 8742.48}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:00:45', 'DeltaTime': 8762.49}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:01:05', 'DeltaTime': 8782.49}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:01:25', 'DeltaTime': 8802.5}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:01:45', 'DeltaTime': 8822.51}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:02:05', 'DeltaTime': 8842.51}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:02:25', 'DeltaTime': 8862.53}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:02:45', 'DeltaTime': 8882.54}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:03:05', 'DeltaTime': 8902.54}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:03:25', 'DeltaTime': 8922.56}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:03:45', 'DeltaTime': 8942.57}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:04:05', 'DeltaTime': 8962.57}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:04:25', 'DeltaTime': 8982.6}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:04:45', 'DeltaTime': 9002.6}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:05:05', 'DeltaTime': 9022.61}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:05:25', 'DeltaTime': 9042.63}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:05:45', 'DeltaTime': 9062.64}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:06:05', 'DeltaTime': 9082.65}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:06:25', 'DeltaTime': 9102.65}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:06:45', 'DeltaTime': 9122.66}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:07:05', 'DeltaTime': 9142.67}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:07:25', 'DeltaTime': 9162.68}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:07:45', 'DeltaTime': 9182.69}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:08:05', 'DeltaTime': 9202.7}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:08:25', 'DeltaTime': 9222.71}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:08:45', 'DeltaTime': 9242.72}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:09:05', 'DeltaTime': 9262.72}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:09:25', 'DeltaTime': 9282.73}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:09:45', 'DeltaTime': 9302.73}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:10:05', 'DeltaTime': 9322.74}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:10:25', 'DeltaTime': 9342.75}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:10:45', 'DeltaTime': 9362.75}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:11:05', 'DeltaTime': 9382.75}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:11:25', 'DeltaTime': 9402.76}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:11:45', 'DeltaTime': 9422.76}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:12:05', 'DeltaTime': 9442.77}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:12:25', 'DeltaTime': 9462.79}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:12:45', 'DeltaTime': 9482.79}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:13:05', 'DeltaTime': 9502.8}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:13:25', 'DeltaTime': 9522.81}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:13:45', 'DeltaTime': 9542.81}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:14:05', 'DeltaTime': 9562.81}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:14:25', 'DeltaTime': 9582.82}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:14:45', 'DeltaTime': 9602.83}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:15:05', 'DeltaTime': 9622.84}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:15:25', 'DeltaTime': 9642.85}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:15:45', 'DeltaTime': 9662.86}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:16:05', 'DeltaTime': 9682.86}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:16:25', 'DeltaTime': 9702.87}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:16:45', 'DeltaTime': 9722.87}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:17:05', 'DeltaTime': 9742.88}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:17:25', 'DeltaTime': 9762.9}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:17:45', 'DeltaTime': 9782.9}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:18:05', 'DeltaTime': 9802.91}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:18:25', 'DeltaTime': 9822.91}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:18:45', 'DeltaTime': 9842.92}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:19:05', 'DeltaTime': 9862.93}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:19:25', 'DeltaTime': 9882.94}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:19:45', 'DeltaTime': 9902.95}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:20:05', 'DeltaTime': 9922.95}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:20:25', 'DeltaTime': 9942.95}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:20:45', 'DeltaTime': 9962.96}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:21:05', 'DeltaTime': 9982.97}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:21:25', 'DeltaTime': 10002.98}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:21:45', 'DeltaTime': 10022.99}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:22:05', 'DeltaTime': 10043.0}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:22:25', 'DeltaTime': 10063.01}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:22:45', 'DeltaTime': 10083.01}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:23:05', 'DeltaTime': 10103.02}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:23:25', 'DeltaTime': 10123.03}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:23:45', 'DeltaTime': 10143.04}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:24:05', 'DeltaTime': 10163.04}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:24:25', 'DeltaTime': 10183.06}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:24:45', 'DeltaTime': 10203.07}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:25:05', 'DeltaTime': 10223.08}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:25:25', 'DeltaTime': 10243.09}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:25:45', 'DeltaTime': 10263.1}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:26:05', 'DeltaTime': 10283.1}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:26:25', 'DeltaTime': 10303.12}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:26:45', 'DeltaTime': 10323.13}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:27:05', 'DeltaTime': 10343.14}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:27:25', 'DeltaTime': 10363.15}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:27:45', 'DeltaTime': 10383.16}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:28:05', 'DeltaTime': 10403.16}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:28:25', 'DeltaTime': 10423.18}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:28:45', 'DeltaTime': 10443.18}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:29:05', 'DeltaTime': 10463.19}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:29:26', 'DeltaTime': 10483.2}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:29:46', 'DeltaTime': 10503.21}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:30:06', 'DeltaTime': 10523.21}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:30:26', 'DeltaTime': 10543.23}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:30:46', 'DeltaTime': 10563.23}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:31:06', 'DeltaTime': 10583.24}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:31:26', 'DeltaTime': 10603.26}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:31:46', 'DeltaTime': 10623.27}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:32:06', 'DeltaTime': 10643.27}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:32:26', 'DeltaTime': 10663.28}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:32:46', 'DeltaTime': 10683.29}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:33:06', 'DeltaTime': 10703.3}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:33:26', 'DeltaTime': 10723.3}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:33:46', 'DeltaTime': 10743.31}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:34:06', 'DeltaTime': 10763.32}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:34:26', 'DeltaTime': 10783.32}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:34:46', 'DeltaTime': 10803.32}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:35:06', 'DeltaTime': 10823.32}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:35:26', 'DeltaTime': 10843.34}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:35:46', 'DeltaTime': 10863.35}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:36:06', 'DeltaTime': 10883.35}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:36:26', 'DeltaTime': 10903.37}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:36:46', 'DeltaTime': 10923.39}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:37:06', 'DeltaTime': 10943.39}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:37:26', 'DeltaTime': 10963.4}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:37:46', 'DeltaTime': 10983.41}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:38:06', 'DeltaTime': 11003.42}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:38:28', 'DeltaTime': 11025.79}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:38:49', 'DeltaTime': 11046.07}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:39:13', 'DeltaTime': 11069.78}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:39:39', 'DeltaTime': 11096.3}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:40:00', 'DeltaTime': 11117.04}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:40:18', 'DeltaTime': 11134.74}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:40:46', 'DeltaTime': 11162.75}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:41:03', 'DeltaTime': 11180.06}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:41:26', 'DeltaTime': 11203.07}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:41:52', 'DeltaTime': 11229.06}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:42:07', 'DeltaTime': 11244.47}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:42:28', 'DeltaTime': 11265.67}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:42:49', 'DeltaTime': 11286.58}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:43:10', 'DeltaTime': 11307.37}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:43:35', 'DeltaTime': 11332.77}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:43:56', 'DeltaTime': 11353.27}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:44:12', 'DeltaTime': 11369.68}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:44:33', 'DeltaTime': 11390.89}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:44:53', 'DeltaTime': 11410.5}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:45:15', 'DeltaTime': 11432.09}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:45:34', 'DeltaTime': 11451.56}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:45:55', 'DeltaTime': 11472.86}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:46:14', 'DeltaTime': 11491.9}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:46:34', 'DeltaTime': 11511.9}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:46:54', 'DeltaTime': 11531.96}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:47:14', 'DeltaTime': 11551.96}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:47:34', 'DeltaTime': 11571.96}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:47:54', 'DeltaTime': 11591.98}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:48:14', 'DeltaTime': 11611.99}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:48:34', 'DeltaTime': 11631.99}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:48:54', 'DeltaTime': 11652.0}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:49:14', 'DeltaTime': 11672.01}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:49:34', 'DeltaTime': 11692.01}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:49:54', 'DeltaTime': 11712.04}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:50:14', 'DeltaTime': 11732.05}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:50:34', 'DeltaTime': 11752.05}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:50:54', 'DeltaTime': 11772.06}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:51:27', 'DeltaTime': 11804.01}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:51:40', 'DeltaTime': 11817.71}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:52:03', 'DeltaTime': 11840.16}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:52:27', 'DeltaTime': 11863.97}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:52:46', 'DeltaTime': 11883.27}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:53:05', 'DeltaTime': 11902.08}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:53:26', 'DeltaTime': 11923.68}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:53:49', 'DeltaTime': 11946.59}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:54:11', 'DeltaTime': 11967.59}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:54:36', 'DeltaTime': 11992.2}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:55:06', 'DeltaTime': 12023.49}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:55:26', 'DeltaTime': 12042.63}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:55:56', 'DeltaTime': 12073.81}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:56:11', 'DeltaTime': 12088.81}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:56:48', 'DeltaTime': 12125.62}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:56:56', 'DeltaTime': 12133.62}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:57:16', 'DeltaTime': 12153.95}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:57:37', 'DeltaTime': 12174.46}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:57:57', 'DeltaTime': 12194.76}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:58:17', 'DeltaTime': 12214.96}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:58:37', 'DeltaTime': 12234.71}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:58:57', 'DeltaTime': 12254.91}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:59:18', 'DeltaTime': 12275.98}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '22:59:39', 'DeltaTime': 12296.89}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '23:00:00', 'DeltaTime': 12317.98}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '23:00:20', 'DeltaTime': 12337.7}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '23:00:42', 'DeltaTime': 12359.3}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '23:01:10', 'DeltaTime': 12387.49}
+
+=============
+Expecting value: line 1 column 25 (char 24)
+{'name': '', 'content': b'\x00\x00\x00\x01', 'msg_type': 'other', 'Date': '2021.12.30', 'ExactTime': '23:01:38', 'DeltaTime': 12414.8}
+
+=============

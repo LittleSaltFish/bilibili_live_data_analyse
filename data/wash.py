@@ -1,5 +1,6 @@
 import json
 import re
+import os
 
 def extract(front,dic):
     # 递归“解压”Json文件，因为递归进行，所以只能返回数组形式，需要二次处理
@@ -47,45 +48,52 @@ def WashLine(line):
     tmp = tmp.replace("None", "\"None\"")
     return tmp
 
+for curDir, dirs, files in os.walk("./data/Rooms/"):
+    for FileName in files:
+        RoomId=FileName[:-5]
+        print(FileName)
 
-DataDict={} # 存放所有的通知，格式为 标题行：[内容行1,内容行2,...,内容行n]
+        if not os.path.exists(f"./data/OutPut/{RoomId}/") :
+            os.makedirs(f"./data/OutPut/{RoomId}/")
 
-with open("./data/rawoutput.json", "r", encoding="utf-8") as f:
-    lines = f.readlines()
-    for line in lines:
-        tmp=WashLine(line)
-        # 初步清洗以满足json格式需要
+        DataDict={} # 存放所有的通知，格式为 标题行：[内容行1,内容行2,...,内容行n]
 
-        try:
-            js = json.loads(tmp)
-            data=extract("",js)
-            KeyLine=flat2title(data)
-            ValueLine=flat2row(data)
+        with open(f"./data/Rooms/{FileName}", "r", encoding="utf-8") as f:
+            lines = f.readlines()
+            for line in lines:
+                tmp=WashLine(line)
+                # 初步清洗以满足json格式需要
 
-            if str(KeyLine) not in DataDict.keys():
-                DataDict[str(KeyLine)]=[]
-                DataDict[str(KeyLine)].append(ValueLine)
-            else:
-                DataDict[str(KeyLine)].append(ValueLine)
+                try:
+                    js = json.loads(tmp)
+                    data=extract("",js)
+                    KeyLine=flat2title(data)
+                    ValueLine=flat2row(data)
 
-            # js = json.dumps(js, indent=4, separators=(',', ':'))
-            # print(KeyLine)
-            # print(ValueLine)
-            # 调试用，格式化输出js
+                    if str(KeyLine) not in DataDict.keys():
+                        DataDict[str(KeyLine)]=[]
+                        DataDict[str(KeyLine)].append(ValueLine)
+                    else:
+                        DataDict[str(KeyLine)].append(ValueLine)
 
-        except Exception as e:
-            # 保存错误输出，观察清洗效果，以便调整清洗策略
-            with open("./data/FailureData.txt","a+" ,encoding="utf-8")as f:
-                f.write(f"{e}\n")
-                f.write(f"{line}\n")
-                f.write("=============\n")
-            pass
+                    # js = json.dumps(js, indent=4, separators=(',', ':'))
+                    # print(KeyLine)
+                    # print(ValueLine)
+                    # 调试用，格式化输出js
 
-i=0
-for key,value in DataDict.items():
-    with open(f"./data/type{i}.csv","a+",encoding="utf-8") as f:
-        
-        f.write(f"{key}\n")
-        for ValueLine in value:
-            f.write(f"{ValueLine}\n")
-    i+=1
+                except Exception as e:
+                    # 保存错误输出，观察清洗效果，以便调整清洗策略
+                    with open(f"./data/OutPut/{RoomId}/FailureData_{RoomId}.txt","a+" ,encoding="utf-8")as f:
+                        f.write(f"{e}\n")
+                        f.write(f"{line}\n")
+                        f.write("=============\n")
+                    pass
+
+        i=0
+        for key,value in DataDict.items():
+            with open(f"./data/OutPut/{RoomId}/type{i}.csv", "a+", encoding="utf-8") as f:
+                
+                f.write(f"{key}\n")
+                for ValueLine in value:
+                    f.write(f"{ValueLine}\n")
+            i+=1
