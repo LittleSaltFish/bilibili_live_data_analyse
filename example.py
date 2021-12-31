@@ -16,9 +16,15 @@ async def printer(q,link):
 
         RoomId=link.split("/")[-1]
         with open(f"./data/Rooms/{RoomId}.json","a+",encoding="utf-8") as f:
-            data=m
-            # TODO：将byte型数据转化为可以json.dump的格式
-            # data=json.dumps(m)
+
+            for key, value in m.items():
+                if type(value).__name__ == "bytes":
+                    m[key] = m[key].decode()
+                if type(value).__name__ == "str":
+                    m[key] = m[key].replace(",", "，")
+            # 将byte型数据转化为可以json.dump的格式，并处理英文逗号，以免在CSV中混淆
+
+            data = json.dumps(m, ensure_ascii=False)
             f.write(str(data)+"\n")
         print(data)
 

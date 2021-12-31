@@ -1,7 +1,7 @@
 #!/bin/bash
-for line in $(</root/Python/bilibili_live_data_analyse/RoomIdList.csv)
+for line in $(<./RoomIdList.csv)
 do
-    id=`echo $line | awk -F',' '{print $1}'`
-    echo $id
-    python3 /root/Python/bilibili_live_data_analyse/example.py https://live.bilibili.com/$id &
+    id=`echo $line | awk -F ',' '{print $1}'`
+    echo "Start Fetching Room $id Successfully!"
+    python3 ./example.py https://live.bilibili.com/$id &
 done
