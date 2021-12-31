@@ -3,7 +3,7 @@ time=$(date "+%Y-%m-%d_%H:%M:%S")
 echo $time
 zip -r ./data/FetchHistory/$time.zip ./data/Rooms/ ./data/OutPut/
 
-rm $(ls ./data/OutPut/*)
-rm $(ls ./data/Rooms/*)
+rm -r ./data/OutPut/*
+rm ./data/Rooms/*
 
 echo "Clean Up Successfully"
