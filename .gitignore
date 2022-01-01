@@ -1,4 +1,5 @@
 /.history/*
-/data/Rooms/*.json
-# /data/*.csv
+/data/Rooms/*
+/data/OutPut/*
+/data/FetchHistory/*
 *.zip
