@@ -1,6 +1,7 @@
 # 基于danmaku的B站直播数据分析
 
-![python](https://img.shields.io/badge/python-%3E=3.7-green.svg)
+[![python](https://img.shields.io/badge/python-%3E=3.7.x-green.svg)](https://www.python.org/)
+[![CSDN](https://img.shields.io/badge/CSDN-%E5%92%B8%E9%B1%BC%E5%92%B8-66ccff)](https://blog.csdn.net/qq_43724306)
 
 ## 项目简介
 
