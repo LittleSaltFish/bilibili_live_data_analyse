@@ -1,6 +1,6 @@
 # 基于danmaku的B站直播数据分析
 
-![python](https://img.shields.io/badge/python-%3E=3.7-green.svg)](https://www.python.org/)
+![python](https://img.shields.io/badge/python-%3E=3.7-green.svg)
 
 ## 项目简介
 
@@ -10,22 +10,10 @@
 
 ## 依赖安装
 
-`pip install aiohttp`
-
-`sudo apt-get install zip`
-
-## 数据来源
-
-- 2021-12-29直播间数据：
-  - 小米发布会（缺失部分时间数据）
-- 2021-12-30直播间数据：
-  - 7085640,国际华语辩论邀请赛,人文社科
-  - 1370218,水无月菌,游戏
-  - 6103516,二老师原创,和平精英
-  - 44857,科技美学的直播间,科技
-  - 11365,LexBurner,王者荣耀
-  - 563689,司语哒哒,视频唱见
-  - 23789393,一个会唱歌的花姑娘,唱见电台
+```
+pip install aiohttp
+sudo apt-get install zip
+```
 
 ## 使用方法
 
