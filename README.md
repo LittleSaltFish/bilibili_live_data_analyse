@@ -2,6 +2,7 @@
 
 [![python](https://img.shields.io/badge/python-%3E=3.7.x-green.svg)](https://www.python.org/)
 [![CSDN](https://img.shields.io/badge/CSDN-%E5%92%B8%E9%B1%BC%E5%92%B8-66ccff)](https://blog.csdn.net/qq_43724306)
+<!-- ![GitHub All Releases](https://img.shields.io/github/downloads/LittleSaltFish/bilibili_live_data_analyse/total) -->
 
 ## 项目简介
 
