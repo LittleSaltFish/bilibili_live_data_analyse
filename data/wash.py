@@ -38,15 +38,14 @@ def flat2title(flat):
         ret+=","
     return ret
 
-def WashLine(line):
-    # 清洗数据以满足格式要求
-    tmp = line.replace("\"", " ")
-    tmp = tmp.replace("'", "\"")
-    tmp = tmp.replace("\\x", "\\\\x")
-    tmp = tmp.replace("False", "\"False\"")
-    tmp = tmp.replace("True", "\"True\"")
-    tmp = tmp.replace("None", "\"None\"")
-    return tmp
+# def WashLine(line):
+#     # 清洗数据以满足格式要求
+#     # 因为改变了保存策略，不需要额外再清洗数据了。
+#     # 异常捕获暂时保留，以备其他情况
+#     tmp = tmp.replace("False", "\"False\"")
+#     tmp = tmp.replace("True", "\"True\"")
+#     tmp = tmp.replace("None", "\"None\"")
+#     return tmp
 
 for curDir, dirs, files in os.walk("./data/Rooms/"):
     for FileName in files:
@@ -61,11 +60,11 @@ for curDir, dirs, files in os.walk("./data/Rooms/"):
         with open(f"./data/Rooms/{FileName}", "r", encoding="utf-8") as f:
             lines = f.readlines()
             for line in lines:
-                tmp=WashLine(line)
+                # line=WashLine(line)
                 # 初步清洗以满足json格式需要
 
                 try:
-                    js = json.loads(tmp)
+                    js = json.loads(line)
                     data=extract("",js)
                     KeyLine=flat2title(data)
                     ValueLine=flat2row(data)

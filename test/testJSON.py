@@ -1,7 +1,7 @@
 import json
 
-m = {"name": " ", "content": b'{"code":0}', "msg_type": "为ot,her",
-       "Date": "2021.12.30", "ExactTime": "19:34:43", "DeltaTime": 0.18}
+m = {"name": "", "content": "{\"code\":0}", "msg_type": "other",
+     "Date": "2021.12.31", "ExactTime": "16:51:13", "DeltaTime": "0.55"}
 
 # print(type(m["msg_type"]).__name__)
 for key, value in m.items():

@@ -1,12 +1,20 @@
 # 基于danmaku的B站直播数据分析
 
+![python](https://img.shields.io/badge/python-%3E=3.7-green.svg)](https://www.python.org/)
+
 ## 项目简介
 
 本仓库主要实现b站弹幕数据的自动化数据采集、清洗和分析
 
 直播间信息爬取代码修改自 [danmaku](https://github.com/THMonster/danmaku)
 
-## 数据来源：
+## 依赖安装
+
+`pip install aiohttp`
+
+`sudo apt-get install zip`
+
+## 数据来源
 
 - 2021-12-29直播间数据：
   - 小米发布会（缺失部分时间数据）
@@ -26,11 +34,11 @@ _以下所有命令脚本，均在文件夹 `/bilibili_live_data_analyse/` 下�
 ### 数据获取
 
 1. 将想要获取的直播间房间号填进 `./RoomIdList.csv` 文件下
-2. 直接运行，请执行：`bash AutoFetch.sh`
+2. 直接运行，请执行：`bash AutoStart.sh`
 
-   如果想后台自动运行，执行：`nohup bash AutoFetch.sh &`
+   如果想后台自动运行，执行：`nohup bash AutoStart.sh &`
 
-   如果不想保留 `nohup.out` 的输出，执行：`nohup bash AutoFetch.sh >/dev/null 2>&1 &`
+   如果不想保留 `nohup.out` 的输出，执行：`nohup bash AutoStart.sh >/dev/null 2>&1 &`
 
 ### 停止获取
 
