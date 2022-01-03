@@ -57,7 +57,7 @@ for curDir, dirs, files in os.walk("./data/Rooms/"):
 
         DataDict={} # 存放所有的通知，格式为 标题行：[内容行1,内容行2,...,内容行n]
 
-        with open(f"./data/Rooms/{FileName}", "r", encoding="utf-8") as f:
+        with open(f"./data/Rooms/{FileName}", "r", encoding="utf-8-sig") as f:
             lines = f.readlines()
             for line in lines:
                 # line=WashLine(line)
@@ -82,7 +82,7 @@ for curDir, dirs, files in os.walk("./data/Rooms/"):
 
                 except Exception as e:
                     # 保存错误输出，观察清洗效果，以便调整清洗策略
-                    with open(f"./data/OutPut/{RoomId}/FailureData_{RoomId}.txt","a+" ,encoding="utf-8")as f:
+                    with open(f"./data/OutPut/{RoomId}/FailureData_{RoomId}.txt", "a+", encoding="utf-8-sig")as f:
                         f.write(f"{e}\n")
                         f.write(f"{line}\n")
                         f.write("=============\n")
@@ -90,7 +90,7 @@ for curDir, dirs, files in os.walk("./data/Rooms/"):
 
         i=0
         for key,value in DataDict.items():
-            with open(f"./data/OutPut/{RoomId}/type{i}.csv", "a+", encoding="utf-8") as f:
+            with open(f"./data/OutPut/{RoomId}/type{i}.csv", "a+", encoding="utf-8-sig") as f:
                 
                 f.write(f"{key}\n")
                 for ValueLine in value:

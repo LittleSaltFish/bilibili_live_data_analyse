@@ -15,7 +15,7 @@ async def printer(q,link):
         m["DeltaTime"]=round(Now-StartTime,2)
 
         RoomId=link.split("/")[-1]
-        with open(f"./data/Rooms/{RoomId}.json","a+",encoding="utf-8") as f:
+        with open(f"./data/Rooms/{RoomId}.json", "a+", encoding="utf-8-sig") as f:
 
             for key, value in m.items():
                 if type(value).__name__ == "bytes":
