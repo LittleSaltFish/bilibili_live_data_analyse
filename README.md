@@ -2,6 +2,7 @@
 
 [![python](https://img.shields.io/badge/python-%3E=3.7.x-green.svg)](https://www.python.org/)
 [![CSDN](https://img.shields.io/badge/CSDN-%E5%92%B8%E9%B1%BC%E5%92%B8-66ccff)](https://blog.csdn.net/qq_43724306)
+
 <!-- ![GitHub All Releases](https://img.shields.io/github/downloads/LittleSaltFish/bilibili_live_data_analyse/total) -->
 
 ## 项目简介
@@ -24,21 +25,24 @@ _以下所有命令脚本，均在文件夹 `/bilibili_live_data_analyse/` 下�
 ### 数据获取
 
 1. 将想要获取的直播间房间号填进 `./RoomIdList.csv` 文件下
-2. 直接运行，请执行：`bash AutoStart.sh`
+2. 直接运行，请执行：`bash AutoStart.sh` 可以获取直播间各类弹幕礼物等信息，如果想后台自动持续运行，执行：`nohup bash AutoStart.sh &`
+3. 为了进一步分析未提供的信息，添加了以下代码
 
-   如果想后台自动运行，执行：`nohup bash AutoStart.sh &`
+   执行： `nohup bash AutoMessage.sh` 可以获取直播间热度
 
-   如果不想保留 `nohup.out` 的输出，执行：`nohup bash AutoStart.sh >/dev/null 2>&1 &`
+   执行： `bash AutoPn.sh` 可以获取直播间清晰度
 
 ### 停止获取
 
-由于AutoFetch脚本同时拉起了若干进程，因此不能单纯使用  `ctrl+c` 简单停止进程
+因为脚本同时拉起了若干抓取进程，所以不能单纯使用  `ctrl+c` 简单停止
 
-1. 运行：`bash ./AutoStop.sh`
+1. 运行：`bash ./AutoStop.sh ` 可以停止所有执行脚本
 
 ### 数据清洗
 
-1. 运行：`python3 ./data/wash.py`
+1. 运行：`python3 ./data/WashMessage.py` 可以清洗直播间数据
+2. 运行：`python3 ./data/WashInfo.py` 可以清洗热度数据
+3. 运行：`python3 ./data/WashPn.py` 可以清洗清晰度数据
 
 ### 数据存档
 
