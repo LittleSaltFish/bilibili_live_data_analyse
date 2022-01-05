@@ -36,7 +36,7 @@ _以下所有命令脚本，均在文件夹 `/bilibili_live_data_analyse/` 下�
 
 因为脚本同时拉起了若干抓取进程，所以不能单纯使用  `ctrl+c` 简单停止
 
-1. 运行：`bash ./AutoStop.sh ` 可以停止所有执行脚本
+1. 运行：`bash ./AutoStop.sh` 可以停止所有执行脚本
 
 ### 数据清洗
 
