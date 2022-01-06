@@ -28,7 +28,7 @@ def flat2row(flat):
     # 将flat格式存储的每一个value行拼起来，输出数据行
     ret = ""
     for i in flat:
-        value=str(i[1]).replace(",","，")
+        value = str(i[1]).replace(",", "，")
         ret += value
         ret += ","
     return ret
@@ -38,7 +38,7 @@ def flat2title(flat):
     # 将flat格式存储的每一个key行拼起来，输出标题行
     ret = ""
     for i in flat:
-        key=str(i[0]).replace(",","，")
+        key = str(i[0]).replace(",", "，")
         ret += key
         ret += ","
     return ret
@@ -57,7 +57,7 @@ def WashLine(line):
 
 DataDict = {}  # 存放所有的通知，格式为 标题行：[内容行1,内容行2,...,内容行n]
 
-with open("./test/Pn.json", "r", encoding="utf-8-sig") as f:
+with open("./data/Pn.json", "r", encoding="utf-8-sig") as f:
     lines = f.readlines()
     for line in lines:
         # tmp = WashLine(line)
@@ -81,7 +81,7 @@ with open("./test/Pn.json", "r", encoding="utf-8-sig") as f:
             # 调试用，格式化输出js
         except Exception as e:
             # 保存错误输出，观察清洗效果，以便调整清洗策略
-            with open(f"./FailureData_Sample.txt", "a+", encoding="utf-8-sig")as f:
+            with open(f"./data/FailureData_Pn.txt", "a+", encoding="utf-8-sig")as f:
                 print(e)
                 f.write(f"{e}\n")
                 f.write(f"{line}\n")
@@ -89,7 +89,7 @@ with open("./test/Pn.json", "r", encoding="utf-8-sig") as f:
             pass
 
 for key, value in DataDict.items():
-    with open(f"./PnOut.csv", "a+", encoding="utf-8-sig") as f:
+    with open(f"./data/PnOut.csv", "a+", encoding="utf-8-sig") as f:
         f.write(f"{key}\n")
         for ValueLine in value:
             f.write(f"{ValueLine}\n")
