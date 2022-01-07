@@ -32,7 +32,7 @@ _以下所有命令脚本，均在文件夹 `/bilibili_live_data_analyse/` 下�
 
 1. 获取直播间各类弹幕礼物等信息：输出路径为 `./data/Rooms/`
 
-   若想观察程序输出，执行：`bash AutoStart.sh` 
+   若想观察程序输出，执行：`bash AutoStart.sh`
 
    若想后台自动持续运行，执行：`nohup bash AutoStart.sh &`
 2. 若想进一步获取其他信息：
@@ -64,3 +64,7 @@ _以下所有命令脚本，均在文件夹 `/bilibili_live_data_analyse/` 下�
 因为数据获取时添加了时间等属性，因此为了保证最终数据的一致性，每次自动获取数据前，请执行自动存档程序，清除或转移旧数据文件
 
 1. 运行：`bash ./AutoSave.sh` ，输出路径为 `./data/FetchHistory/`
+
+## 四、示例数据
+
+[点击下载示例数据](https://pan.baidu.com/s/1PwkThjltpEeBQ6cp5v3CaQ?pwd=2233 "提取码：2233")
